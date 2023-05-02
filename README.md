@@ -5,4 +5,4 @@ Projeto desenvolvido com o intuito de aprimorar as técnicas citadas acima.
 
 ===================================================
 
-!\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
+![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
