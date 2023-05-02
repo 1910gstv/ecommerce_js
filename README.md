@@ -11,7 +11,7 @@ Esse projeto é um Website desenvolvido com HTML, CSS e Javascript com o intuito
 * Página de carrinho;
 * Modal para Newsletter;
 
-Com esse projeto consegui entender com mais clareza o uso de seletores em CSS, o uso de _arrow functions_ e também como implementar de forma eficiente o _addEventListener_;
+Com esse projeto consegui entender com mais clareza o uso de seletores em CSS, o uso de _arrow functions_ e também como implementar de forma eficiente o _addEventListener_. Esses recursos serão úteis para que eu possa implementar funcionalidades extras em projetos futuros e até para meu portfólio.
 
 ##
 
