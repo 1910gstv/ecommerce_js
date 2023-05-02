@@ -11,7 +11,9 @@ Esse projeto é um Website desenvolvido com HTML, CSS e Javascript com o intuito
 * Página de carrinho;
 * Modal para Newsletter;
 
-===================================================
+Com esse projeto consegui entender com mais clareza o uso de seletores em CSS, o uso de _arrow functions_ e também como implementar de forma eficiente o _addEventListener_;
+
+##
 
 Esse projeto foi inspirado pelo canal dotWebDesign. Abaixo, os links para os vídeos tutoriais disponíveis no Youtube:
 
@@ -19,5 +21,5 @@ Esse projeto foi inspirado pelo canal dotWebDesign. Abaixo, os links para os ví
 
 ➡ [Ecommerce Website: PARTE 2](https://www.youtube.com/watch?v=qKoe69-xy4M&list=PLR-6G_T74hcYDAmPvxE3sSTVJY933zU_4&index=2&ab_channel=dotWebdesign)
 
-===================================================
+##
 
