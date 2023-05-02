@@ -5,4 +5,4 @@ Projeto desenvolvido com o intuito de aprimorar as técnicas citadas acima.
 
 ===================================================
 
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+!\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
