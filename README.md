@@ -15,9 +15,9 @@ Esse projeto é um Website desenvolvido com HTML, CSS e Javascript com o intuito
 
 Esse projeto foi inspirado pelo canal dotWebDesign. Abaixo, os links para os vídeos tutoriais disponíveis no Youtube:
 
-➡ [PARTE 1](https://www.youtube.com/watch?v=qKoe69-xy4M&list=PLR-6G_T74hcYDAmPvxE3sSTVJY933zU_4&index=2&ab_channel=dotWebdesign)
+➡ [Ecommerce Website: PARTE 1](https://www.youtube.com/watch?v=qKoe69-xy4M&list=PLR-6G_T74hcYDAmPvxE3sSTVJY933zU_4&index=2&ab_channel=dotWebdesign)
 
-➡ [PARTE 2](https://www.youtube.com/watch?v=qKoe69-xy4M&list=PLR-6G_T74hcYDAmPvxE3sSTVJY933zU_4&index=2&ab_channel=dotWebdesign)
+➡ [Ecommerce Website: PARTE 2](https://www.youtube.com/watch?v=qKoe69-xy4M&list=PLR-6G_T74hcYDAmPvxE3sSTVJY933zU_4&index=2&ab_channel=dotWebdesign)
 
 ===================================================
 
