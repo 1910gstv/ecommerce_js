@@ -23,5 +23,5 @@ Esse projeto foi inspirado pelo canal dotWebDesign. Abaixo, os links para os ví
 
 ##
 
-⌨ com ❤ por [@1910gstv](https://github.com/1910gstv)
+⌨ com 🤍 por [@1910gstv](https://github.com/1910gstv)
 
